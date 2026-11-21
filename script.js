@@ -1,4 +1,4 @@
-const API_KEY = '68838ceeee95b5f7a28ddd04dcad19cc'; // ← PUT YOUR KEY HERE
+const API_KEY = '7ea9e3fe77c67f4baecc1958847a2ea6'; // ← PUT YOUR KEY HERE
 const GRID = document.getElementById('grid');
 const MODAL = document.getElementById('modal');
 const SEARCH = document.getElementById('search');
